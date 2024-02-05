@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="telsoft_commons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/telsoft_commons.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

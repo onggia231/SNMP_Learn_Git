@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="log4j" level="project" />
+    <orderEntry type="library" name="telsoft_srv" level="project" />
+    <orderEntry type="library" name="telsoft_helper" level="project" />
+    <orderEntry type="library" name="telsoft_commons" level="project" />
+    <orderEntry type="library" name="kcommon_lib" level="project" />
+    <orderEntry type="library" name="kcore" level="project" />
+    <orderEntry type="library" name="snmp4j-1.11.3" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="snmp4j-agent-1.4.2" level="project" />
+  </component>
+</module>

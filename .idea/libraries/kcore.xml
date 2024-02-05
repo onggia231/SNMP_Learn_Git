@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="kcore">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/kcore" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/kcore" recursive="false" />
+  </library>
+</component>

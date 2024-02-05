@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration monitorInterval="30">
+    <appenders>
+        <RollingFile name="A1" fileName="log/general/others.log"
+                     filePattern="log/general/others-%d{MM-dd-yyyy}-%i.log.gz">
+            <PatternLayout>
+                <pattern>%d %p [%t] %c{1.} - %m%n</pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <SizeBasedTriggeringPolicy size="50 MB"/>
+            </Policies>
+        </RollingFile>
+
+        <RollingFile name="TELSOFT_LIB" fileName="log/general/telsoft_lib.log"
+                     filePattern="log/general/telsoft_lib-%d{MM-dd-yyyy}-%i.log.gz">
+            <PatternLayout>
+                <pattern>%d %p [%t] %c{1.} - %m%n</pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <SizeBasedTriggeringPolicy size="50 MB"/>
+            </Policies>
+        </RollingFile>
+
+        <RollingFile name="REQUEST" fileName="log/request/message.log"
+                     filePattern="log/request/message-%d{MM-dd-yyyy}-%i.log.gz">
+            <PatternLayout>
+                <pattern>%d %p [%t] %c{1.} - %m%n</pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <SizeBasedTriggeringPolicy size="50 MB"/>
+            </Policies>
+        </RollingFile>
+
+        <RollingFile name="RESPONSE" fileName="log/response/message.log"
+                     filePattern="log/response/message-%d{MM-dd-yyyy}-%i.log.gz">
+            <PatternLayout>
+                <pattern>%d %p [%t] %c{1.} - %m%n</pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <SizeBasedTriggeringPolicy size="50 MB"/>
+            </Policies>
+        </RollingFile>
+
+    </appenders>
+
+    <loggers>
+        <asyncRoot level="error">
+            <AppenderRef ref="A1"/>
+        </asyncRoot>
+
+        <AsyncLogger name="TELSOFT-LIB" level="error" additivity="false">
+            <AppenderRef ref="TELSOFT_LIB"/>
+        </AsyncLogger>
+
+        <AsyncLogger name="telsoft.core.clf.snmp.thread.SNMPCLF" level="ALL" includeLocation="true" additivity="false">
+            <AppenderRef ref="REQUEST"/>
+        </AsyncLogger>
+
+        <AsyncLogger name="telsoft.core.clf.snmp.thread.SNMPCLF" level="ALL" includeLocation="true" additivity="false">
+            <AppenderRef ref="RESPONSE"/>
+        </AsyncLogger>
+    </loggers>
+
+</configuration>

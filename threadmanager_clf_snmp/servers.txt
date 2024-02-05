@@ -1,0 +1,21 @@
+Object0
+	$GroupKeys
+	Session==CLF_SNMP
+	Host==localhost
+	Port==3300
+	User==system
+	Order
+	EncryptMethod==SHA
+	Protocol==3
+	SystemInfor==0
+	SSHHost
+	SSHPort==22
+	SSHUser
+	SSH==0
+	SavePassword==0
+	ShellStartCommand
+	ShellStopCommand
+	ShellPort==22
+	ShellUsername
+	ShellSavePassword==0
+	Class==com.telsoft.monitor.ddtp.DDTPServerMonitor

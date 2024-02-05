@@ -1,0 +1,36 @@
+# Global config
+EncryptAlgorithm==SHA
+AuthenticationCacheDuration==7200
+DateFormat==dd/MM/yyyy
+ReloadTime==30
+TimeZone
+	Offset==25200000
+	Description==Viet Nam/Ha Noi
+
+# APP_NAME get in GW_APP Table
+Domain==UTIL
+AppName==CLF_SNMP
+DetailPermission==0
+SystemProperties
+	mail.smtp.auth==true
+	com.telsoft.database.Database==0
+
+# Thread config
+ActionLog==log/general/action.log
+Sequence
+	Folder==sequence/
+	Definition
+		Request
+			Source==request.seq
+			DB==0
+			Initial==1
+			Increment==1
+		Session
+			Source==session.seq
+			DB==0
+			Initial==1
+			Increment==1
+
+PortID==3300
+MaxConnectionAllowed==10
+

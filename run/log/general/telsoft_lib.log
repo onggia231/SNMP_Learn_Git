@@ -1,0 +1,9 @@
+2024-01-30 02:48:42,139 ERROR [Thread-1] TELSOFT-LIB - Error
+java.lang.NullPointerException: null
+	at java.util.Calendar.setTime(Calendar.java:1770) ~[?:1.8.0_341]
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:943) ~[?:1.8.0_341]
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:936) ~[?:1.8.0_341]
+	at java.text.DateFormat.format(DateFormat.java:345) ~[?:1.8.0_341]
+	at com.telsoft.thread.ThreadManager.notifyUserConnected(ThreadManager.java:549) [telsoft_srv.jar:?]
+	at com.telsoft.thread.ThreadServer.run(ThreadServer.java:193) [telsoft_srv.jar:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_341]

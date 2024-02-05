@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HazelcastCaching:jar" />
+      <artifact name="Mobi-EPC-DiameterProxy:jar" />
+      <artifact name="csv_import_msisdn:jar" />
+      <artifact name="eir_dpc:jar" />
+      <artifact name="hlr_ws_dpc:jar" />
+      <artifact name="mme_gateway:jar" />
+      <artifact name="router_api:jar" />
+      <artifact name="running:jar" />
+      <artifact name="soapservice:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/mobiphone/HazelcastCaching/src/telsoft/gateway/core/cmp/epc/caching/CacheServer.java" line="166" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f806bd73-deda-45e5-a4b7-410a9cde70f8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Mobi_EPC_DiameterProxy$LocalCacheTester.coverage" NAME="LocalCacheTester Coverage Results" MODIFIED="1539320417751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Mobi_EPC_DiameterProxy$Hazelcast2.coverage" NAME="Hazelcast2 Coverage Results" MODIFIED="1540345097774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Mobi_EPC_DiameterProxy$TestHazelcast.coverage" NAME="TestHazelcast Coverage Results" MODIFIED="1535448623714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Mobi_EPC_DiameterProxy$ThreadManager.coverage" NAME="ThreadManager Coverage Results" MODIFIED="1537932510289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Mobi_EPC_DiameterProxy$SOAPReceptionist.coverage" NAME="SOAPReceptionist Coverage Results" MODIFIED="1545035891211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.telsoft.dproxy.soap.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Mobi_EPC_DiameterProxy$Diameterproxy.coverage" NAME="Diameterproxy Coverage Results" MODIFIED="1537155378258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>telsoft.gateway.core.cmp.diameter.epc.dispatcher.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Mobi_EPC_DiameterProxy$Test.coverage" NAME="Test Coverage Results" MODIFIED="1530786133864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>telsoft.gateway.core.cmp.diameter.epc.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Mobi_EPC_DiameterProxy$TaskManager.coverage" NAME="TaskManager Coverage Results" MODIFIED="1540176257586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>telsoft.gateway.core.cmp.diameter.epc.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Mobi_EPC_DiameterProxy$HazelcastTester.coverage" NAME="HazelcastTester Coverage Results" MODIFIED="1539161489798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Mobi_EPC_DiameterProxy$MMEServer.coverage" NAME="MMEServer Coverage Results" MODIFIED="1536133502965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Mobi-EPC-DiameterProxy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="H2SelectTester.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobiphone/running/src/Test/H2SelectTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="H2Tester.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobiphone/running/src/Test/H2Tester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hazelcast3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobiphone/running/src/Test/Hazelcast3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KDBParameter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/dao/KDBParameter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="226" column="0" lean-forward="true" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tagConsumer</find>
+      <find>mbLocked</find>
+      <find>lockServer</find>
+      <find>lockServe</find>
+      <find>lockServer()</find>
+      <find>lock</find>
+      <find>Msisdn</find>
+      <find>return</find>
+      <find>NUM_SERVERS</find>
+      <find>PeerImpl</find>
+      <find>No Conne</find>
+      <find>networkReqListener</find>
+      <find>No connec</find>
+      <find>227</find>
+      <find>PauseTime</find>
+      <find>processSoapMessage</find>
+      <find>disruptor</find>
+      <find>mstrLogFileName</find>
+      <find>processSOAPMessage</find>
+      <find>deployServices</find>
+      <find>ACTIVE:</find>
+      <find>getTP</find>
+      <find>logRequest</find>
+      <find>Unable to find valid connectio</find>
+      <find>Unable to find context by route information</find>
+      <find>createdTime</find>
+      <find>Server</find>
+      <find>remoteClientAssociation</find>
+      <find>onComminiCa</find>
+      <find>open</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>parameterLoader</replace>
+      <replace>strName</replace>
+      <replace>strValue</replace>
+      <replace>com.telsoft.core.helper.configuration</replace>
+      <replace>EIR_JD_REQUEST</replace>
+      <replace>EIR_JD_RESPONSE</replace>
+      <replace>MMEGateway</replace>
+      <replace>update_time</replace>
+      <replace>ParameterUtil.createParameter</replace>
+      <replace>{ACTIVE}:</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\data\KHANHLV_DATA\telsoft\Running\Dropbox\Mobi-EPC\SOURCE\Mobi-EPC-DiameterProxy\src\telsoft</dir>
+      <dir>D:\data\KHANHLV_DATA\telsoft\Running\Dropbox\Mobi-EPC\SOURCE\Mobi-EPC-DiameterProxy\run</dir>
+      <dir>$PROJECT_DIR$/run/log</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/MMEServer.java" />
+        <option value="$PROJECT_DIR$/mobiphone/mme_gateway/src/telsoft/gateway/core/cmp/epc/mme/reply/processer/DefaultProcessor.java" />
+        <option value="$PROJECT_DIR$/run/configuration/log4j2.xml" />
+        <option value="$PROJECT_DIR$/mobiphone/running/src/Test/test/IgniteTester.java" />
+        <option value="$PROJECT_DIR$/mobiphone/router_api/src/com/telsoft/dproxy/api/RestController.java" />
+        <option value="$PROJECT_DIR$/mobiphone/router_api/src/com/telsoft/dproxy/api/service/RestService.java" />
+        <option value="$PROJECT_DIR$/mobiphone/router_api/src/com/telsoft/dproxy/api/service/Server.java" />
+        <option value="$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/statistic/StatisticRecorder.java" />
+        <option value="$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/KThread.java" />
+        <option value="$PROJECT_DIR$/mobiphone/eir_dpc/src/telsoft/gateway/core/cmp/epc/eir/EIRDispatcher.java" />
+        <option value="$PROJECT_DIR$/mobiphone/hss_mml_dpc/src/telsoft/gateway/core/cmp/epc/hss/HssDispatcher.java" />
+        <option value="$PROJECT_DIR$/mobiphone/running/src/Test/Tps.java" />
+        <option value="$PROJECT_DIR$/mobiphone/running/src/Test/TPS.java" />
+        <option value="$PROJECT_DIR$/mobiphone/running/src/Test/TPStester.java" />
+        <option value="$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/CountableKThread.java" />
+        <option value="$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/statistic/Statistic.java" />
+        <option value="$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/EPCCaching.java" />
+        <option value="$PROJECT_DIR$/mobiphone/hlr_ws_dpc/src/telsoft/gateway/core/cmp/epc/hlr/api/socket/HLRConnectionBack.java" />
+        <option value="$PROJECT_DIR$/mobiphone/hss_mml_dpc/src/telsoft/gateway/core/cmp/epc/hss/api/HssConfigurationbak.java" />
+        <option value="$PROJECT_DIR$/mobiphone/hlr_ws_dpc/src/telsoft/gateway/core/cmp/epc/hlr/api/HLRConfigurationbak.java" />
+        <option value="$PROJECT_DIR$/mobiphone/csv_import_msisdn/src/telsoft/gateway/core/cmp/importer/MsisdnImporter.java" />
+        <option value="$PROJECT_DIR$/mobiphone/soapservice/src/com/telsoft/dproxy/soap/SOAPReceptionist.java" />
+        <option value="$PROJECT_DIR$/mobiphone/hlr_ws_dpc/src/telsoft/gateway/core/cmp/epc/hlr/processer/FillMsisdnProcessor.java" />
+        <option value="$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/dao/MsisdnModel.java" />
+        <option value="$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/vo/MSISDN.java" />
+        <option value="$PROJECT_DIR$/mobiphone/hlr_ws_dpc/src/telsoft/gateway/core/cmp/epc/hlr/HLRDispatcher.java" />
+        <option value="$PROJECT_DIR$/run/configuration/caching/hazelcast-server.xml" />
+        <option value="$PROJECT_DIR$/mobiphone/hlr_ws_dpc/src/telsoft/gateway/core/cmp/epc/hlr/api/socket/HLRConnection.java" />
+        <option value="$PROJECT_DIR$/mobiphone/running/src/Test/TestHLr.java" />
+        <option value="$PROJECT_DIR$/mobiphone/hlr_ws_dpc/src/telsoft/gateway/core/cmp/epc/hlr/api/HLRConfiguration.java" />
+        <option value="$PROJECT_DIR$/mobiphone/running/src/Test/H2SelectTester (linux-as08's conflicted copy 2019-01-05).java" />
+        <option value="$PROJECT_DIR$/run/log/general/others.log" />
+        <option value="$PROJECT_DIR$/run/log/general/diameter.log" />
+        <option value="$PROJECT_DIR$/../../../../../source/java/jdiameter/component/patch/src/telsoft/jdiameter/server/impl/io/sctp/netty/SCTPTransportServer.java" />
+        <option value="$PROJECT_DIR$/mobiphone/running/src/Test/MMEServer.java" />
+        <option value="$PROJECT_DIR$/mobiphone/mme_gateway/src/telsoft/gateway/core/cmp/epc/mme/reply/MMEReplyHandler.java" />
+        <option value="$PROJECT_DIR$/mobiphone/mme_gateway/src/telsoft/gateway/core/cmp/epc/mme/MMEGateway.java" />
+        <option value="$PROJECT_DIR$/lib/jdiameter/jdiameter.jar!/org/jdiameter/client/impl/StackImpl.class" />
+        <option value="$PROJECT_DIR$/lib/jdiameter/jdiameter.jar!/org/jdiameter/client/impl/controller/PeerTableImpl.class" />
+        <option value="$PROJECT_DIR$/mobiphone/soapservice/src/com/telsoft/dproxy/soap/ServletReceptionist.java" />
+        <option value="$PROJECT_DIR$/mobiphone/HazelcastCaching/src/telsoft/gateway/core/cmp/epc/caching/CacheServer.java" />
+        <option value="$PROJECT_DIR$/mobiphone/utilities_module/src/telsoft/gateway/core/cmp/epc/utilites/MsisdnMapEvictedListener.java" />
+        <option value="$PROJECT_DIR$/mobiphone/utilities_module/utilities_module.iml" />
+        <option value="$PROJECT_DIR$/mobiphone/utilities_module/src/telsoft/gateway/core/cmp/epc/utilites/MsisdnEvictedListener.java" />
+        <option value="$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/dao/impl/SqlMsisdnModel.java" />
+        <option value="$PROJECT_DIR$/mobiphone/running/src/Test/Test.java" />
+        <option value="$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/dao/KDBParameter_bak.java" />
+        <option value="$PROJECT_DIR$/mobiphone/running/src/Test/Hazelcast3.java" />
+        <option value="$PROJECT_DIR$/mobiphone/running/src/Test/H2Tester.java" />
+        <option value="$PROJECT_DIR$/mobiphone/running/src/Test/H2SelectTester.java" />
+        <option value="$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/dao/KDBParameter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="460" />
+    <option name="y" value="244" />
+    <option name="width" value="902" />
+    <option name="height" value="484" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="mobiphone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="mobiphone" type="462c0819:PsiDirectoryNode" />
+              <item name="HazelcastCaching" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="mobiphone" type="462c0819:PsiDirectoryNode" />
+              <item name="HazelcastCaching" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="mobiphone" type="462c0819:PsiDirectoryNode" />
+              <item name="HazelcastCaching" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="caching" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="mobiphone" type="462c0819:PsiDirectoryNode" />
+              <item name="running" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="mobiphone" type="462c0819:PsiDirectoryNode" />
+              <item name="running" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="mobiphone" type="462c0819:PsiDirectoryNode" />
+              <item name="running" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="run" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="epc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mobi-EPC-DiameterProxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mobi-EPC-DiameterProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="epc" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15722656" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="mobi-epc-diameterproxy" />
+    <property name="SearchEverywhereHistoryKey" value="Cac&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/DBPool-4.9.3-JDBC3-patched.jar!/snaq/db/CacheConnection.class&#10;Cache&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/DBPool-4.9.3-JDBC3-patched.jar!/snaq/db/CacheConnection.class&#10;TelsoftSe&#9;PSI&#9;JAVA://org.jdiameter.client.impl.TelsoftSessionImpl&#10;Peer&#9;FILE&#9;file:///home/khanh/Dropbox/data/source/java/jdiameter/component/patch/src/telsoft/jdiameter/server/impl/ServerPeerTableImpl.java&#10;Server&#9;FILE&#9;file:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/mobiphone/router_api/src/com/telsoft/dproxy/api/service/Server.java&#10;ServerFsm&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/jdiameter/patch.jar!/telsoft/jdiameter/server/impl/fsm/ServerPeerFSMImpl.class&#10;AbstractPeer&#9;PSI&#9;JAVA://org.jdiameter.common.impl.controller.AbstractPeer&#10;ServerPeer&#9;PSI&#9;JAVA://telsoft.jdiameter.server.impl.ServerPeerTableImpl&#10;ServerPee&#9;PSI&#9;JAVA://telsoft.jdiameter.server.impl.ServerPeerImpl&#10; Unable to find valid connectio&#9;null&#9;null&#10;RouterImpl&#9;PSI&#9;JAVA://org.jdiameter.server.impl.RouterImpl&#10;LocalPee&#9;PSI&#9;JAVA://org.jdiameter.server.impl.MetaDataImpl.ServerLocalPeer&#10;Sta&#9;FILE&#9;file:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/src/telsoft/gateway/core/cmp/diameter/epc/statistic/Statistic.java&#10;Statistics&#9;PSI&#9;JAVA://com.hazelcast.client.impl.statistics.Statistics&#10;Mu&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/jdiameter/jdiameter.jar!/org/jdiameter/server/impl/MutablePeerTableImpl.class&#10;PeerMan&#9;PSI&#9;JAVA://org.jdiameter.client.impl.StackImpl#peerManager&#10;StackIm&#9;PSI&#9;JAVA://org.jdiameter.server.impl.StackImpl&#10;PeerIm&#9;PSI&#9;JAVA://org.jdiameter.server.impl.PeerImpl&#10;FTPRE&#9;PSI&#9;JAVA://com.telsoft.thread.basic.FTPReceiver&#10;Avp&#9;PSI&#9;JAVA://org.jdiameter.api.Avp&#10;PeerFsm&#9;PSI&#9;JAVA://org.jdiameter.client.impl.fsm.PeerFSMImpl&#10;S6a&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/jdiameter/jdiameter.jar!/org/jdiameter/client/impl/app/s6a/S6aClientSessionImpl.class&#10;avp&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/jdiameter/jdiameter.jar!/org/jdiameter/client/impl/parser/AvpSetImpl.class&#10;JMEIdentityCheckRequestImpl&#9;PSI&#9;JAVA://org.jdiameter.common.impl.app.s13.JMEIdentityCheckRequestImpl&#10;Converter&#9;PSI&#9;JAVA://com.k.netty.utilities.Converter&#10;PeerImp&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/jdiameter/jdiameter.jar!/org/jdiameter/server/impl/PeerImpl.class&#10;sendDp&#9;PSI&#9;JAVA://org.jdiameter.client.api.fsm.IContext#sendDpaMessage&#10;PeerImpl&#9;PSI&#9;JAVA://org.jdiameter.server.impl.PeerImpl&#10;SCTPTransportServer&#9;PSI&#9;JAVA://telsoft.jdiameter.server.impl.io.sctp.netty.SCTPTransportServer&#10;CMap&#9;PSI&#9;JAVA://com.sun.javafx.font.CMap&#10;HazelcA&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/kcore/CachingImpl.jar!/com/k/caching/hazelcast/HazelcastCaching.class&#10;MsisdnC&#9;PSI&#9;JAVA://telsoft.gateway.core.cmp.epc.caching.HazelcastServer#msisdnCaching&#10;SQ&#9;FILE&#9;file:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/src/telsoft/gateway/core/cmp/diameter/epc/dao/impl/SqlMsisdnModel.java&#10;Db&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/gw_commons.jar!/telsoft/gateway/DBParameter.class&#10;Parameters&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/jdiameter/jdiameter.jar!/org/jdiameter/client/impl/helpers/Parameters.class&#10;Em&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/jdiameter/jdiameter.jar!/org/jdiameter/client/impl/helpers/EmptyConfiguration.class&#10;EmptyConfiguration&#9;PSI&#9;JAVA://org.jdiameter.client.impl.helpers.EmptyConfiguration&#10;DBP&#9;PSI&#9;JAVA://telsoft.gateway.DBParameter&#10;HeapCac&#9;PSI&#9;JAVA://org.cache2k.core.HeapCache&#10;BinaryObject&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/caching_lib/ignite/ignite-core-2.6.0.jar!/org/apache/ignite/binary/BinaryObject.class&#10;ParameterTy&#9;PSI&#9;JAVA://com.telsoft.thread.ParameterType&#10;PhasedBackoffWaitStrategy&#9;PSI&#9;JAVA://com.lmax.disruptor.PhasedBackoffWaitStrategy&#10;CacheStatistics&#9;PSI&#9;JAVA://com.hazelcast.cache.ICache#getLocalCacheStatistics&#10;LocalCac&#9;PSI&#9;JAVA://com.hazelcast.monitor.impl.LocalCacheStatsImpl&#10;AvpIm&#9;PSI&#9;JAVA://org.jdiameter.client.impl.parser.AvpImpl&#10;MML&#9;PSI&#9;JAVA://telsoft.gateway.core.cmp.epc.hss.test.MmlMessageImpl&#10;Tels&#9;FILE&#9;jar:///home/khanh/Dropbox/data/telsoft/Running/Mobi-EPC/SOURCE/Mobi-EPC-DiameterProxy/lib/jdiameter/patch.jar!/org/jdiameter/client/impl/TelsoftSessionImpl.class&#10;Locald&#9;PSI&#9;JAVA://org.jdiameter.common.impl.data.LocalDataSource&#10;AsyncLo&#9;PSI&#9;JAVA://org.apache.logging.log4j.core.async.AsyncLogger&#10;rabbitMQConfiguration&#9;PSI&#9;JAVA://com.telsoft.core.helper.configuration.RabbitMQServerConfiguration" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="telsoft.jdiameter.server.impl.io" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/lib/kcore" />
+      <recent name="$PROJECT_DIR$/lib/jdiameter" />
+      <recent name="$PROJECT_DIR$/lib/telsoft_helper" />
+      <recent name="$PROJECT_DIR$/lib/httpclient" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="telsoft.gateway.core.cmp.diameter.epc.dao" />
+      <recent name="telsoft.gateway.core.cmp.epc.utilites" />
+      <recent name="telsoft.gateway.core.cmp.epc.hlr.api" />
+      <recent name="telsoft.gateway.core.cmp.epc.hss.api" />
+      <recent name="telsoft.gateway.core.cmp.epc.hlr.api.socket" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/httpclient" />
+      <recent name="$PROJECT_DIR$/mobiphone/running/src/Test" />
+      <recent name="$PROJECT_DIR$/lib/router_lib" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="D:\data\KHANHLV_DATA\telsoft\Running\Dropbox\Mobi-EPC\SOURCE\Mobi-EPC-DiameterProxy\mobiphone" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.H2SelectTester">
+    <configuration name="225" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="10.51.48.225" />
+      <option name="PORT" value="5005" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration name="H2SelectTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test.H2SelectTester" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="running" />
+      <envs />
+    </configuration>
+    <configuration name="TPStester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test.TPStester" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="running" />
+      <envs />
+    </configuration>
+    <configuration name="TaskManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="telsoft.gateway.core.cmp.diameter.epc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="telsoft.gateway.core.cmp.diameter.epc.TaskManager" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="running" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="running" />
+      <envs />
+    </configuration>
+    <configuration name="TestHLr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test.TestHLr" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="running" />
+      <envs />
+    </configuration>
+    <configuration name="ThreadManager" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../threadmanager/ThreadManager.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../threadmanager" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="JAR Application.ThreadManager" />
+      <item index="1" class="java.lang.String" itemvalue="Remote.225" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TaskManager" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TPStester" />
+      <item index="4" class="java.lang.String" itemvalue="Application.H2SelectTester" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TestHLr" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.H2SelectTester" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TaskManager" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestHLr" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TPStester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f806bd73-deda-45e5-a4b7-410a9cde70f8" name="Default" comment="" />
+      <created>1530604393099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530604393099</updated>
+      <workItem from="1530604396703" duration="63000" />
+      <workItem from="1530604522958" duration="2312000" />
+      <workItem from="1530666281993" duration="15670000" />
+      <workItem from="1530693402488" duration="69000" />
+      <workItem from="1530694585492" duration="2225000" />
+      <workItem from="1530697937787" duration="27553000" />
+      <workItem from="1530787167073" duration="41644000" />
+      <workItem from="1533886275430" duration="1787000" />
+      <workItem from="1533890320487" duration="693000" />
+      <workItem from="1533964924398" duration="15947000" />
+      <workItem from="1533983198402" duration="28000" />
+      <workItem from="1534145835311" duration="67000" />
+      <workItem from="1534146675036" duration="5747000" />
+      <workItem from="1534153982283" duration="2442000" />
+      <workItem from="1534408411938" duration="4996000" />
+      <workItem from="1534415845623" duration="134000" />
+      <workItem from="1534480506058" duration="109000" />
+      <workItem from="1534501811358" duration="25000" />
+      <workItem from="1534758054316" duration="1130000" />
+      <workItem from="1534849096433" duration="326000" />
+      <workItem from="1534850714889" duration="719000" />
+      <workItem from="1534851611282" duration="16000" />
+      <workItem from="1534899862076" duration="19556000" />
+      <workItem from="1534927468225" duration="7882000" />
+      <workItem from="1534936605777" duration="1008000" />
+      <workItem from="1534987829308" duration="11316000" />
+      <workItem from="1535002450163" duration="13750000" />
+      <workItem from="1535074288985" duration="27601000" />
+      <workItem from="1534519986807" duration="516000" />
+      <workItem from="1534520541798" duration="5765000" />
+      <workItem from="1535334085961" duration="20446000" />
+      <workItem from="1535357972832" duration="108000" />
+      <workItem from="1534526553022" duration="584000" />
+      <workItem from="1534527301779" duration="3568000" />
+      <workItem from="1535362912580" duration="1248000" />
+      <workItem from="1535364361617" duration="4222000" />
+      <workItem from="1535368852175" duration="1055000" />
+      <workItem from="1535370074591" duration="942000" />
+      <workItem from="1535416798120" duration="29634000" />
+      <workItem from="1535451800754" duration="10595000" />
+      <workItem from="1535593344520" duration="40000" />
+      <workItem from="1535593486917" duration="46756000" />
+      <workItem from="1535874492715" duration="747000" />
+      <workItem from="1535875328612" duration="34000" />
+      <workItem from="1535875400889" duration="1725000" />
+      <workItem from="1535877648866" duration="378000" />
+      <workItem from="1535878057995" duration="493000" />
+      <workItem from="1535895272351" duration="3051000" />
+      <workItem from="1535900057345" duration="1242000" />
+      <workItem from="1535901655755" duration="381000" />
+      <workItem from="1535902093932" duration="4276000" />
+      <workItem from="1535946730893" duration="2933000" />
+      <workItem from="1535960701312" duration="4162000" />
+      <workItem from="1535982582105" duration="7121000" />
+      <workItem from="1535989788123" duration="255000" />
+      <workItem from="1535990049454" duration="106000" />
+      <workItem from="1535990161124" duration="130000" />
+      <workItem from="1535990299638" duration="2371000" />
+      <workItem from="1536032110430" duration="6436000" />
+      <workItem from="1536040303548" duration="705000" />
+      <workItem from="1536041310429" duration="445000" />
+      <workItem from="1536041883013" duration="3649000" />
+      <workItem from="1536045551253" duration="4756000" />
+      <workItem from="1536050353889" duration="1359000" />
+      <workItem from="1536051725374" duration="778000" />
+      <workItem from="1536052515954" duration="33000" />
+      <workItem from="1536052569626" duration="3868000" />
+      <workItem from="1536056461822" duration="3645000" />
+      <workItem from="1536109773934" duration="3096000" />
+      <workItem from="1536113153926" duration="627000" />
+      <workItem from="1536113789664" duration="105000" />
+      <workItem from="1536113901014" duration="364000" />
+      <workItem from="1536114275019" duration="17932000" />
+      <workItem from="1536135433011" duration="320000" />
+      <workItem from="1536135759826" duration="1603000" />
+      <workItem from="1536137386703" duration="9224000" />
+      <workItem from="1536197884338" duration="1211000" />
+      <workItem from="1536199106462" duration="484000" />
+      <workItem from="1536199598149" duration="17812000" />
+      <workItem from="1536225853141" duration="999000" />
+      <workItem from="1536227480182" duration="12663000" />
+      <workItem from="1536394763309" duration="6639000" />
+      <workItem from="1536554550662" duration="3928000" />
+      <workItem from="1536566496161" duration="2408000" />
+      <workItem from="1536571434904" duration="93000" />
+      <workItem from="1536571828943" duration="3972000" />
+      <workItem from="1536629176219" duration="49000" />
+      <workItem from="1536629972698" duration="1685000" />
+      <workItem from="1536633918455" duration="3388000" />
+      <workItem from="1536637709007" duration="16231000" />
+      <workItem from="1536714678756" duration="660000" />
+      <workItem from="1536715512983" duration="453000" />
+      <workItem from="1536718246702" duration="2466000" />
+      <workItem from="1536721929840" duration="3242000" />
+      <workItem from="1536733840524" duration="1823000" />
+      <workItem from="1536746503570" duration="730000" />
+      <workItem from="1536747672592" duration="812000" />
+      <workItem from="1536801245155" duration="6812000" />
+      <workItem from="1536808856213" duration="2774000" />
+      <workItem from="1536889297362" duration="2792000" />
+      <workItem from="1537147671845" duration="10105000" />
+      <workItem from="1537236833144" duration="4558000" />
+      <workItem from="1537245349027" duration="5202000" />
+      <workItem from="1537262894904" duration="1977000" />
+      <workItem from="1537326407039" duration="1727000" />
+      <workItem from="1537429510669" duration="2651000" />
+      <workItem from="1537433063627" duration="748000" />
+      <workItem from="1537433817898" duration="487000" />
+      <workItem from="1537434311276" duration="7305000" />
+      <workItem from="1537511751394" duration="983000" />
+      <workItem from="1537512740345" duration="13058000" />
+      <workItem from="1537607300216" duration="3427000" />
+      <workItem from="1537751157661" duration="1459000" />
+      <workItem from="1537755115329" duration="12484000" />
+      <workItem from="1537774618281" duration="1226000" />
+      <workItem from="1537775881307" duration="9267000" />
+      <workItem from="1537839806024" duration="12296000" />
+      <workItem from="1537861709390" duration="10730000" />
+      <workItem from="1537928653888" duration="5388000" />
+      <workItem from="1537935933110" duration="538000" />
+      <workItem from="1537936477969" duration="4362000" />
+      <workItem from="1537942332366" duration="149000" />
+      <workItem from="1537942557124" duration="1370000" />
+      <workItem from="1537944385628" duration="11356000" />
+      <workItem from="1537955778337" duration="523000" />
+      <workItem from="1537956314822" duration="1583000" />
+      <workItem from="1537958305829" duration="3061000" />
+      <workItem from="1537962636410" duration="220000" />
+      <workItem from="1537974427210" duration="623000" />
+      <workItem from="1538011182307" duration="21696000" />
+      <workItem from="1538359410970" duration="2148000" />
+      <workItem from="1538445877755" duration="11725000" />
+      <workItem from="1538527702617" duration="12391000" />
+      <workItem from="1538628337849" duration="1713000" />
+      <workItem from="1538632354590" duration="26741000" />
+      <workItem from="1538969150458" duration="4068000" />
+      <workItem from="1539055892138" duration="6468000" />
+      <workItem from="1539137083382" duration="794000" />
+      <workItem from="1539137883124" duration="13568000" />
+      <workItem from="1539161990333" duration="11226000" />
+      <workItem from="1539229054823" duration="10833000" />
+      <workItem from="1539249200586" duration="7015000" />
+      <workItem from="1539256797310" duration="1968000" />
+      <workItem from="1539272488693" duration="32000" />
+      <workItem from="1539274117951" duration="946000" />
+      <workItem from="1539278212610" duration="2276000" />
+      <workItem from="1539281094243" duration="18000" />
+      <workItem from="1539305372595" duration="3898000" />
+      <workItem from="1539310803512" duration="6713000" />
+      <workItem from="1539319113972" duration="767000" />
+      <workItem from="1539319890043" duration="3492000" />
+      <workItem from="1539444162967" duration="64000" />
+      <workItem from="1539566769459" duration="2679000" />
+      <workItem from="1539570532062" duration="1161000" />
+      <workItem from="1539750414455" duration="1439000" />
+      <workItem from="1539921576614" duration="1570000" />
+      <workItem from="1539923423374" duration="21556000" />
+      <workItem from="1540171944347" duration="4842000" />
+      <workItem from="1540178291850" duration="182000" />
+      <workItem from="1540178958456" duration="88000" />
+      <workItem from="1540179057114" duration="19187000" />
+      <workItem from="1540258076925" duration="10553000" />
+      <workItem from="1540273548711" duration="8560000" />
+      <workItem from="1540342773184" duration="5803000" />
+      <workItem from="1540349328944" duration="18869000" />
+      <workItem from="1540374868124" duration="2482000" />
+      <workItem from="1540431611122" duration="3364000" />
+      <workItem from="1540435385315" duration="51000" />
+      <workItem from="1540435479836" duration="10681000" />
+      <workItem from="1540450659967" duration="4865000" />
+      <workItem from="1541042283677" duration="61000" />
+      <workItem from="1541573916540" duration="394000" />
+      <workItem from="1541993742179" duration="5082000" />
+      <workItem from="1542615280511" duration="738000" />
+      <workItem from="1542767514127" duration="8753000" />
+      <workItem from="1542790876883" duration="3636000" />
+      <workItem from="1542853188617" duration="8341000" />
+      <workItem from="1542941419331" duration="4549000" />
+      <workItem from="1542962070844" duration="511000" />
+      <workItem from="1542964465782" duration="521000" />
+      <workItem from="1543219398822" duration="2467000" />
+      <workItem from="1543282712037" duration="6033000" />
+      <workItem from="1543302346034" duration="8645000" />
+      <workItem from="1543367570011" duration="3335000" />
+      <workItem from="1543371647101" duration="3418000" />
+      <workItem from="1543377863998" duration="6951000" />
+      <workItem from="1543401887305" duration="1142000" />
+      <workItem from="1543453032519" duration="19000" />
+      <workItem from="1543454624587" duration="15834000" />
+      <workItem from="1543486759353" duration="585000" />
+      <workItem from="1543545154552" duration="3052000" />
+      <workItem from="1543650735217" duration="2784000" />
+      <workItem from="1543803052995" duration="15840000" />
+      <workItem from="1543828620416" duration="1724000" />
+      <workItem from="1543832545461" duration="2154000" />
+      <workItem from="1543839360195" duration="3146000" />
+      <workItem from="1543886722732" duration="85000" />
+      <workItem from="1543886816081" duration="14347000" />
+      <workItem from="1543981741431" duration="1742000" />
+      <workItem from="1544002340596" duration="1297000" />
+      <workItem from="1544006773173" duration="61000" />
+      <workItem from="1544008798638" duration="21000" />
+      <workItem from="1544009900335" duration="575000" />
+      <workItem from="1544060621469" duration="14405000" />
+      <workItem from="1544149951544" duration="4470000" />
+      <workItem from="1544166055290" duration="4197000" />
+      <workItem from="1544196343249" duration="32000" />
+      <workItem from="1544200242807" duration="585000" />
+      <workItem from="1544200873185" duration="751000" />
+      <workItem from="1544233196003" duration="14361000" />
+      <workItem from="1544496101612" duration="2328000" />
+      <workItem from="1544599082596" duration="803000" />
+      <workItem from="1544609545672" duration="2418000" />
+      <workItem from="1544614493093" duration="54000" />
+      <workItem from="1544615047524" duration="2129000" />
+      <workItem from="1544620615069" duration="43000" />
+      <workItem from="1544676676466" duration="5829000" />
+      <workItem from="1544688638763" duration="2244000" />
+      <workItem from="1544752539754" duration="19570000" />
+      <workItem from="1545012322488" duration="12068000" />
+      <workItem from="1545099463880" duration="14270000" />
+      <workItem from="1545120085090" duration="3064000" />
+      <workItem from="1545182738327" duration="7150000" />
+      <workItem from="1545190333864" duration="69000" />
+      <workItem from="1545190471236" duration="2912000" />
+      <workItem from="1545193413664" duration="5067000" />
+      <workItem from="1545202207208" duration="2296000" />
+      <workItem from="1545205508605" duration="170000" />
+      <workItem from="1545281600113" duration="2535000" />
+      <workItem from="1545359312737" duration="16876000" />
+      <workItem from="1545441304697" duration="1766000" />
+      <workItem from="1545619704126" duration="7671000" />
+      <workItem from="1545640271004" duration="3800000" />
+      <workItem from="1545646097046" duration="63000" />
+      <workItem from="1545646193768" duration="1530000" />
+      <workItem from="1545653762776" duration="387000" />
+      <workItem from="1545720549785" duration="6888000" />
+      <workItem from="1545738808417" duration="635000" />
+      <workItem from="1545787289417" duration="476000" />
+      <workItem from="1545812682313" duration="856000" />
+      <workItem from="1546481620716" duration="108000" />
+      <workItem from="1546481777486" duration="854000" />
+      <workItem from="1546585653071" duration="103000" />
+      <workItem from="1547009567276" duration="2224000" />
+      <workItem from="1547016103782" duration="2096000" />
+      <workItem from="1547024019484" duration="14000" />
+      <workItem from="1547086188470" duration="59000" />
+      <workItem from="1547087910953" duration="13000" />
+      <workItem from="1547088067006" duration="693000" />
+      <workItem from="1547106266464" duration="242000" />
+      <workItem from="1547106541866" duration="2280000" />
+      <workItem from="1547118619468" duration="1155000" />
+      <workItem from="1547129277873" duration="646000" />
+      <workItem from="1547173872108" duration="1333000" />
+      <workItem from="1547179242066" duration="9673000" />
+      <workItem from="1547429210814" duration="1251000" />
+      <workItem from="1547433035752" duration="143000" />
+      <workItem from="1547453987440" duration="2257000" />
+      <workItem from="1547524942412" duration="1145000" />
+      <workItem from="1550023701548" duration="60000" />
+      <workItem from="1550023930854" duration="1018000" />
+      <workItem from="1550025014999" duration="2900000" />
+      <workItem from="1550029968149" duration="801000" />
+      <workItem from="1550031419754" duration="1500000" />
+      <workItem from="1550109300210" duration="6671000" />
+      <workItem from="1550131187408" duration="3938000" />
+      <workItem from="1550407758389" duration="1940000" />
+      <workItem from="1550455160195" duration="2326000" />
+      <workItem from="1550457732670" duration="566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1252671000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="460" y="244" width="1366" height="732" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5772727" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.121212125" sideWeight="0.47938144" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21212122" sideWeight="0.47630924" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.43030304" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280943" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328152" sideWeight="0.4227273" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5768567" sideWeight="0.5621212" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280943" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26666668" sideWeight="0.47826087" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21666667" sideWeight="0.5217391" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60883796" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18636364" sideWeight="0.52061856" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53195167" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5772727" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.121212125" sideWeight="0.47938144" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60883796" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26060605" sideWeight="0.49312377" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.43030304" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280943" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.4227273" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3091537" sideWeight="0.5621212" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18676123" sideWeight="0.52061856" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280943" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35681817" sideWeight="0.49312377" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30397236" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27826783" sideWeight="0.50687623" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../../source/java/jdiameter/component/patch/src/telsoft/jdiameter/server/impl/ServerPeerTableImpl.java</url>
+          <line>322</line>
+          <properties />
+          <option name="timeStamp" value="636" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/DBPool-4.9.3-JDBC3-patched.jar!/snaq/util/ObjectPool.class</url>
+          <line>190</line>
+          <properties />
+          <option name="timeStamp" value="643" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/DBPool-4.9.3-JDBC3-patched.jar!/snaq/db/CacheConnection.class</url>
+          <line>460</line>
+          <properties />
+          <option name="timeStamp" value="644" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint log-message="true" type="java-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="645" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mobiphone/utilities_module/src/telsoft/gateway/core/cmp/epc/utilites/MsisdnMapEvictedListener.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/kcore/KCommon.jar!/com/k/message/KMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/kcore/KCommon.jar!/com/k/worker/KWorkerPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiphone/utilities_module/utilities_module.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/api/EPCMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="99" column="42" lean-forward="false" selection-start-line="99" selection-start-column="34" selection-end-line="99" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/kcore/KCommon.jar!/com/k/worker/impl/KWorkerHanlder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="35" column="28" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiphone/mme_gateway/src/telsoft/gateway/core/cmp/epc/mme/MMEHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="51" column="28" lean-forward="false" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/kcore/CachingImpl.jar!/com/k/caching/InstanceConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_181/src.zip!/java/util/EventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/caching_lib/hazelcast-all-3.11.jar!/com/hazelcast/core/AbstractIMapEvent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/caching_lib/hazelcast-all-3.11.jar!/com/hazelcast/map/listener/MapListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/kcore/CachingImpl.jar!/com/k/caching/hazelcast/HazelcastMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="48" column="15" lean-forward="false" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/kcore/CachingImpl.jar!/com/k/caching/KMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/caching_lib/hazelcast-all-3.11.jar!/com/hazelcast/map/listener/EntryExpiredListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/caching_lib/hazelcast-all-3.11.jar!/com/hazelcast/core/EntryEvent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="41" lean-forward="false" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/kcore/KCommon.jar!/com/k/worker/impl/DisruptorWorkerPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="37" column="11" lean-forward="false" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiphone/mme_gateway/src/telsoft/gateway/core/cmp/epc/mme/MMEGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9928">
+          <caret line="645" column="49" lean-forward="false" selection-start-line="645" selection-start-column="0" selection-end-line="646" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiphone/utilities_module/src/telsoft/gateway/core/cmp/epc/utilites/MsisdnEvictedListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/hazelcast-all-3.11-sources.jar!/com/hazelcast/map/listener/EntryExpiredListener.java" />
+    <entry file="jar://$USER_HOME$/.ideaLibSources/hazelcast-all-3.11-sources.jar!/com/hazelcast/core/EntryEvent.java" />
+    <entry file="jar://$USER_HOME$/.ideaLibSources/hazelcast-all-3.11-sources.jar!/com/hazelcast/map/listener/MapListener.java" />
+    <entry file="jar:///opt/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="381" column="29" lean-forward="false" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/EPCCaching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="99" column="17" lean-forward="false" selection-start-line="99" selection-start-column="17" selection-end-line="99" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/hazelcast-all-3.11-sources.jar!/com/hazelcast/core/HazelcastInstance.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/kcore/CachingImpl.jar!/com/k/caching/hazelcast/HazelcastCaching.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="49" column="36" lean-forward="false" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiphone/running/src/Test/Test.java" />
+    <entry file="jar:///opt/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="913" column="16" lean-forward="false" selection-start-line="913" selection-start-column="16" selection-end-line="913" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tmp/DBPool-4.9.3-JDBC3/src/snaq/db/CachedStatement.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/telsoft_srv.jar!/com/telsoft/database/Database.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="222" column="23" lean-forward="false" selection-start-line="222" selection-start-column="23" selection-end-line="222" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tmp/DBPool-4.9.3-JDBC3/src/snaq/db/CacheConnection.java" />
+    <entry file="file://$PROJECT_DIR$/mobiphone/running/src/Test/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiphone/running/src/Test/ConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiphone/running/src/Test/EIRServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiphone/running/src/Test/H2SelectTester (linux-as08's conflicted copy 2019-01-05).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiphone/HazelcastCaching/src/telsoft/gateway/core/cmp/epc/caching/CacheServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="198" column="28" lean-forward="false" selection-start-line="198" selection-start-column="28" selection-end-line="198" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_181/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4335">
+          <caret line="279" column="13" lean-forward="false" selection-start-line="279" selection-start-column="13" selection-end-line="279" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/DBPool-4.9.3-JDBC3-patched.jar!/snaq/db/ConnectionPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="204" column="22" lean-forward="false" selection-start-line="204" selection-start-column="22" selection-end-line="204" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/DBPool-4.9.3-JDBC3-patched.jar!/snaq/util/Reusable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/DBPool-4.9.3-JDBC3-patched.jar!/snaq/db/CacheConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="459" column="16" lean-forward="false" selection-start-line="459" selection-start-column="16" selection-end-line="459" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/dao/impl/SqlMsisdnModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="157" column="0" lean-forward="false" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/DBPool-4.9.3-JDBC3-patched.jar!/snaq/util/ObjectPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="201" column="26" lean-forward="false" selection-start-line="201" selection-start-column="26" selection-end-line="201" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/dao/KDBParameter_bak.java" />
+    <entry file="file://$USER_HOME$/tmp/DBPool-4.9.3-JDBC3/src/snaq/db/ConnectionPool.java" />
+    <entry file="file://$USER_HOME$/tmp/DBPool-4.9.3-JDBC3/src/snaq/util/Reusable.java" />
+    <entry file="file://$USER_HOME$/tmp/DBPool-4.9.3-JDBC3/src/snaq/util/ObjectPool.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/HikariCP-3.3.1.jar!/com/zaxxer/hikari/HikariConfig.class" />
+    <entry file="file://$PROJECT_DIR$/mobiphone/running/src/Test/Hazelcast3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/HikariCP-3.3.1.jar!/com/zaxxer/hikari/pool/PoolBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="357" column="0" lean-forward="false" selection-start-line="357" selection-start-column="0" selection-end-line="357" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiphone/running/src/Test/H2Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiphone/running/src/Test/H2SelectTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/telsoft/gateway/core/cmp/diameter/epc/dao/KDBParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="226" column="0" lean-forward="true" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>soapservice:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jdiameter_lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Mobi-EPC-DiameterProxy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>cach2k</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

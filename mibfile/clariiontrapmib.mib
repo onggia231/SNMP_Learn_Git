@@ -1,0 +1,61 @@
+CLARIION-TRAP-MIB DEFINITIONS ::= BEGIN
+IMPORTS
+  OBJECT-TYPE
+    FROM SNMPv2-SMI
+  enterprises
+    FROM SNMPv2-SMI
+  DisplayString
+    FROM SNMPv2-TC
+  snmpTrapOID
+    FROM SNMPv2-MIB;
+
+clariionTraps OBJECT IDENTIFIER ::= { enterprises 1997 }
+
+genericTrap OBJECT-TYPE
+  SYNTAX INTEGER {
+    coldStart(0),
+    warmStart(1),
+    linkDown(2),
+    linkUp(3),
+    authenticationFailure(4),
+    egpNeighborLoss(5),
+    enterpriseSpecific(6)
+  }
+  MAX-ACCESS read-only
+  STATUS current
+  DESCRIPTION
+    "Generic trap type for CLARIION MIB."
+  ::= { clariionTraps 1 }
+
+specificTrap OBJECT-TYPE
+  SYNTAX INTEGER
+  MAX-ACCESS read-only
+  STATUS current
+  DESCRIPTION
+    "Specific trap type for CLARIION MIB."
+  ::= { clariionTraps 2 }
+
+clariionTrap NOTIFICATION-TYPE
+  STATUS current
+  DESCRIPTION
+    "Base notification for CLARIION MIB."
+  ::= { clariionTraps 3 }
+
+-- Define specific traps
+clariionSpecificTrap1 NOTIFICATION-TYPE
+  OBJECTS { genericTrap, specificTrap }
+  STATUS current
+  DESCRIPTION
+    "Specific Trap 1 for CLARIION MIB."
+  ::= { clariionTrap 1 }
+
+clariionSpecificTrap2 NOTIFICATION-TYPE
+  OBJECTS { genericTrap, specificTrap }
+  STATUS current
+  DESCRIPTION
+    "Specific Trap 2 for CLARIION MIB."
+  ::= { clariionTrap 2 }
+
+-- Add more specific traps as needed
+
+END

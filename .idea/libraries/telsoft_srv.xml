@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="telsoft_srv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/telsoft_srv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

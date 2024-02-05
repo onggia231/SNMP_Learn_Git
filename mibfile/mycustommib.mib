@@ -1,0 +1,24 @@
+MY-CUSTOM-MIB DEFINITIONS ::= BEGIN
+
+IMPORTS
+   OBJECT-TYPE
+      FROM SNMPv2-SMI
+   enterprises
+      FROM SNMPv2-SMI;
+
+myEnterprise OBJECT IDENTIFIER ::= { enterprises 1 }
+
+myTrapInfo OBJECT-TYPE
+   SYNTAX OCTET STRING
+   MAX-ACCESS read-write
+   STATUS current
+   DESCRIPTION "Information to be sent in the SNMP trap."
+   ::= { myEnterprise 1 }
+
+myTrap TRAP-TYPE
+   ENTERPRISE myEnterprise
+   VARIABLES { myTrapInfo }
+   DESCRIPTION "My custom trap for demonstration purposes."
+   ::= 1
+
+END

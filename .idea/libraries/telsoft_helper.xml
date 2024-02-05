@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="telsoft_helper">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/telsoft_helper" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/telsoft_helper" recursive="false" />
+  </library>
+</component>

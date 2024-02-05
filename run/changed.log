@@ -1,0 +1,200 @@
+	<changedlog>
+		<time>28/01/2024 10:51:41</time>
+		<logid>1706413866904</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>Port</param_name>
+		<param_old_value>3868</param_old_value>
+		<param_new_value>168</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>28/01/2024 10:51:41</time>
+		<logid>1706413866904</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>VTrap</param_name>
+		<param_old_value>V2Trap</param_old_value>
+		<param_new_value>V1Trap</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>28/01/2024 10:54:13</time>
+		<logid>1706414029076</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>Port</param_name>
+		<param_old_value>168</param_old_value>
+		<param_new_value>162</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:49:00</time>
+		<logid>1706557721901</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>TrapOid</param_name>
+		<param_old_value>.1.3.6.1.2.1.1.6</param_old_value>
+		<param_new_value>.1.3.6.1.4.1.1</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>StartupType</param_name>
+		<param_old_value>1</param_old_value>
+		<param_new_value>2</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>Community</param_name>
+		<param_old_value>public</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>TrapOid</param_name>
+		<param_old_value>.1.3.6.1.4.1.1</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>IpAddress</param_name>
+		<param_old_value>127.0.0.1</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>Port</param_name>
+		<param_old_value>162</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>VTrap</param_name>
+		<param_old_value>V1Trap</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>LogDir</param_name>
+		<param_old_value>./log/smnp</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>Alert</param_name>
+		<param_old_value>N</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>Debug</param_name>
+		<param_old_value>N</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>SingleSession</param_name>
+		<param_old_value>N</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>DelayTime</param_name>
+		<param_old_value>5</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+	</changedlog>
+	<changedlog>
+		<time>30/01/2024 02:55:45</time>
+		<logid>1706558096081</logid>
+		<user>system</user>
+		<threadid>1003</threadid>
+		<class>telsoft.core.clf.snmp.thread.SNMPCLF</class>
+		<name>SNMP CLF</name>
+		<param_name>ConnectDB</param_name>
+		<param_old_value>N</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
